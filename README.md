@@ -12,7 +12,7 @@
 * 2/5: Loops
 * 2/12: Functions & Modules
 
-Projects include variations of the games: 
+Projects include variations of the games:
 
 ### Course Breakdown:
 
@@ -22,9 +22,9 @@ Projects include variations of the games:
 * Python Shell
 * Creating & Running Files
 * Basic Commands
-* **In-class Exercises/Challenges**: 
+* **In-class Exercises/Challenges**:
     * Create a network folder to store classwork
     * Use Python shell to run basic python commands
     * Create a Python file & run it from Idle
     * Run a Python file through CMD
-* **Vocabulary**: directory, error, execute, shell, software, syntax
+* **Vocabulary**: directory, error, execute, keyword, shell, software, syntax

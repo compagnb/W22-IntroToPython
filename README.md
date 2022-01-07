@@ -27,4 +27,4 @@ Projects include variations of the games:
     * Use Python shell to run basic python commands
     * Create a Python file & run it from Idle
     * Run a Python file through CMD
-* **Vocabulary**: directory, error, execute, keyword, shell, software, syntax, variables
+* **Vocabulary**: directory, error, execute, keyword, memory, null, operator, program, shell, software, syntax, variables

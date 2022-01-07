@@ -21,7 +21,7 @@ Projects include variations of the games:
 * Python & IDLE
 * Python Shell
 * Creating & Running Files
-* Basic Commands
+* Basic Commands & Calculations
 * **In-class Exercises/Challenges**:
     * Create a network folder to store classwork
     * Use Python shell to run basic python commands

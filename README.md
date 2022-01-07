@@ -16,7 +16,7 @@ Projects include variations of the games:
 
 ### Course Breakdown:
 
-#### [Week 1: Intro To Pythin & Shell](wkNotes/wk1.md)
+#### [Week 1: Intro To Python & Shell](wkNotes/)
 * Network Folder Setup
 * Python & IDLE
 * Python Shell
@@ -27,4 +27,4 @@ Projects include variations of the games:
     * Use Python shell to run basic python commands
     * Create a Python file & run it from Idle
     * Run a Python file through CMD
-* **Vocabulary**: directory, error, execute, keyword, shell, software, syntax
+* **Vocabulary**: directory, error, execute, keyword, shell, software, syntax, variables

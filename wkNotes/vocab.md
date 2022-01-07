@@ -6,3 +6,4 @@
 * **shell**: This refers to a command-line interface of some kind.
 * **software**: A collection of programs.
 * **syntax**: The arrangement and order of words in a program.
+* **variables**:

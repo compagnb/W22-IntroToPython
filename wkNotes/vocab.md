@@ -8,7 +8,7 @@
 * **shell**: This refers to a command-line interface of some kind.
 * **software**: A collection of programs.
 * **syntax**: The arrangement and order of words in a program.
-* **variables**: Something used to store values. A variable is like a label for information held in the computer's memory. Variables arent permanently tied to a specific value, hence the name "variable," meaning it can change.
+* **variables**: Something used to store values. A variable is like a label for information held in the computer's memory. Variables aren't permanently tied to a specific value, hence the name "variable," meaning it can change.
 
 ### Week 2
 * **data**: Usually refers to information stored and manipulated by a computer.

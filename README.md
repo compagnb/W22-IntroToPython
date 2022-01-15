@@ -3,6 +3,7 @@
 * Email: compagnb@gmail.com
 * Class Repo: https://github.com/compagnb/W22-IntroToPython
 * [Vocabulary Sheet](wkNotes/vocab.md)
+* [Keywords Sheet](wkNotes/keywords.md)
 
 ### Course Outline
 * 1/8: Intro To Python & Shell
@@ -31,7 +32,7 @@ Projects include variations of the games: Madlibs
 * **In-class Exercises/Challenges**:
     * Create a network folder to store classwork
     * Create Python files & run them
-    * Hi my name is program
+    * Hi my name is...
     * Madlibs
 * **Vocabulary**: data, float, integer, string, concatenate
 

@@ -2,10 +2,10 @@
 
 ### Week 1
 * **print**: prints information between parenthesis in the shell
-* **+**: adds
-* **-**: subtracts
-* *****: multiplies
-* **/**: divides
+* **+**: Addition
+* **-**: Subtraction
+* *****: Multiplication
+* **/**: Division
 
 
 ### Week 2

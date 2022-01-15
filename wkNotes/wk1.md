@@ -5,10 +5,11 @@
 
 ### Python Operators (Basic Math)
 
-`50 + 50`
-`150 - 50`
-`10 * 10`
-`100 / 25`
+```50 + 50
+   150 - 50
+   10 * 10
+   100 / 25
+```
 
 * **+** is for **Addition**
 * **-** is for **Subtraction**

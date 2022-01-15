@@ -12,19 +12,26 @@
 * 2/5: Loops
 * 2/12: Functions & Modules
 
-Projects include variations of the games:
+Projects include variations of the games: Madlibs
 
 ### Course Breakdown:
 
-#### [Week 1: Intro To Python & Shell](wkNotes/)
-* Network Folder Setup
+#### [Week 1: Intro To Python & Shell](wkNotes/wk1.md)
 * Python & IDLE
 * Python Shell
-* Creating & Running Files
 * Basic Commands & Calculations
 * **In-class Exercises/Challenges**:
-    * Create a network folder to store classwork
-    * Use Python shell to run basic python commands
-    * Create a Python file & run it from Idle
-    * Run a Python file through CMD
+    * Program your friend!
 * **Vocabulary**: directory, error, execute, keyword, memory, null, operator, program, shell, software, syntax, variables
+
+
+#### [Week 2: Variables](wkNotes/wk2.md)
+* Strings, ints, floats
+* Adding Strings and ints/floats
+* **In-class Exercises/Challenges**:
+    * Create a network folder to store classwork
+    * Create Python files & run them
+    * Hi my name is program
+    * Madlibs
+* **Vocabulary**: data, float, integer, string, concatenate
+

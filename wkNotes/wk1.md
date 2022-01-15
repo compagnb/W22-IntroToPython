@@ -47,8 +47,3 @@ magicCoins = 13
 name = 'barb'
 print('hello ' + name + ' !')
 
-keyboard input:
-print('Enter your name:')
-x = input()
-print('Hello, ' + x)
-

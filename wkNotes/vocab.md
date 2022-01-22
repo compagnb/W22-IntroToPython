@@ -16,3 +16,9 @@
 * **integer**: A whole number; a number that is not a fraction.
 * **string**: A collection of alphanumeric characters (letters, numbers, punctuation, and whitespace).
 * **concatenate**: Add to or link (things) together in a chain or series
+
+### Week 3
+* **block**:  A group of computer statements in a program.
+* **Boolean**: A type of value that can be either true or false (In python it’s True or False, with a capital T and F)
+* **condition**: An expression in a program that is a bit like a question. Conditions evaluate to true or false.
+* **module**: A group of functions and variables.

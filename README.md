@@ -37,3 +37,12 @@ Projects include variations of the games: Madlibs
     * Madlibs
 * **Vocabulary**: data, float, integer, string, concatenate
 
+
+#### [Week 3: Variables](wkNotes/wk3.md)
+* Review Strings, ints, floats
+* Conditionals
+* **In-class Exercises/Challenges**:
+    * Madlibs continued
+    * Choose Your Own Adventure
+* **Vocabulary**: block, boolean, condition, module
+* **Keywords**: and, elif, else, if

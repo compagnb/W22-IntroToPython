@@ -4,7 +4,7 @@
 * Class Repo: https://github.com/compagnb/W22-IntroToPython
 * [Vocabulary Sheet](wkNotes/vocab.md)
 * [Keywords Sheet](wkNotes/keywords.md)
-* [Students Folders](students/)
+* [Students Folders](studentWork)
 
 ### Course Outline
 * 1/8: Intro To Python & Shell

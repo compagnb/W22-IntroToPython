@@ -22,6 +22,8 @@ firstname1 = input(" Please enter a name ")
 
 print (text1 + number1 + text2 + noun1 + space + firstname1 + text3)
 
+input("Pausing Program, Press any button to end")
+
 
 
 

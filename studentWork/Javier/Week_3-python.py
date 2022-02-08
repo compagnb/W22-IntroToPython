@@ -8,10 +8,10 @@ shoopingList = ["Chips", "Coke", "Micdonlads"]
 shoopingList.append ("Minecraft")
 print (shoppingList)
 userInput = input ("guess my name")
-if (userInput == "Javier):
-    print ("Correct")\
+if (userInput == "Javier"):
+    print ("Correct")
     print ("close")
-elif (userInput == "Mahdi)
+elif (userInput == "Mahdi") : 
 else:
     print ("sorry")
       
